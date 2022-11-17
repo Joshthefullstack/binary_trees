@@ -1,2 +1,2 @@
 # binary_trees
-C- Binary Trees
+This project is about data structures and algorithms(Binary Trees) written in C Language
